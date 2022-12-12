@@ -2,7 +2,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>react + sass</h1>
+      <h1>react + teste</h1>
     </div>
   )
 }
